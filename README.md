@@ -12,3 +12,14 @@ create an output excel file, and then write said activity status to the output f
 
 functions.py provides the functions necessary to carry out the tasks relegated to stateScraping.py.
 
+***
+
+To run the program:
+
+1. Download the excel file that contains the list of private schools: https://drive.google.com/file/d/1rpzqA5fDkH7ROVio18nuTpmVgkhK7FKB/view?usp=sharing.
+2. Save the downloaded file to the directory containing the program.
+3. Navigate to said directory.
+4. Generate the proper list of tuples by running "python3 excelExtraction.py" in the terminal.
+5. Run "python3 stateScraping.py" in the terminal and then type either "Ca" or "Pa" depending on which state you'd like to scrape.
+
+Happy scraping!
