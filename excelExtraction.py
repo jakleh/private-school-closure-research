@@ -61,4 +61,3 @@ def excelExtraction(sheetName):
 
 caList = excelExtraction('CA')
 paList = excelExtraction('PA')
-njList = excelExtraction('NJ')
