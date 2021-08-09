@@ -28,11 +28,11 @@ Happy scraping!
 
 Here is the list of sources that I used to build this project:
 
-• https://www.browserstack.com/guide/locators-in-selenium
-• https://www.youtube.com/watch?v=OjyDAxK720Q
-• https://stackabuse.com/reading-and-writing-excel-files-in-python-with-the-pandas-library
-• https://www.youtube.com/watch?v=knnhkraHsBg
-• https://www.youtube.com/watch?v=-stXyMIrsck
-• https://www.youtube.com/watch?v=eDrFWRi13DY
-• https://selenium-python.readthedocs.io/locating-elements.html
+- https://www.browserstack.com/guide/locators-in-selenium
+- https://www.youtube.com/watch?v=OjyDAxK720Q
+- https://stackabuse.com/reading-and-writing-excel-files-in-python-with-the-pandas-library
+- https://www.youtube.com/watch?v=knnhkraHsBg
+- https://www.youtube.com/watch?v=-stXyMIrsck
+- https://www.youtube.com/watch?v=eDrFWRi13DY
+- https://selenium-python.readthedocs.io/locating-elements.html
 
