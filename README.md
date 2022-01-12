@@ -1,4 +1,4 @@
-I wrote this program to identify 1000+ California and Pennsylvania private schools as either open or closed. Each state has its own department of
+This program was written to identify 1000+ California and Pennsylvania private schools as either open or closed. Each state has its own department of
 education with a website that identifies private schools as either open or closed. Hence, since each website maintains a consistent layout for 
 each school search, I was able to use web scraping in order to identify the activity status of each school.
 
